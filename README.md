@@ -50,6 +50,7 @@ dependencies:
   desktop_scrollbar:
 ```
 
+Then include it in your source code by importing the library via:
 ```dart
 import 'package:desktop_scrollbar/desktop_scrollbar.dart';
 ```

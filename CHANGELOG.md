@@ -1,6 +1,10 @@
+## 1.0.3
+
+* Improve documentation format.
+
 ## 1.0.2
 
-* Fix importing documentation
+* Fix importing documentation.
 
 ## 1.0.1
 
