@@ -1,3 +1,7 @@
+## 1.0.4
+
+* Add documentation regarding disabling default scrollbars.
+
 ## 1.0.3
 
 * Improve documentation format.

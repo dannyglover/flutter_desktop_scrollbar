@@ -65,6 +65,20 @@ DesktopScrollbar(
      child: ListView.builder(
         controller: scrollController,
 ```
+#### Preventing duplicate scrollbars on Desktop
+
+To hide the scrollbar that automatically gets attached to scrollable widgets on desktop platforms, use the following code to disable the default scrollbar.
+```dart
+DesktopScrollbar(
+        controller: widget.scrollController,
+        trackVisibility: true,
+        thumbVisibility: true,
+        thickness: 10,
+        trackColor: Colors.black,
+        child: ScrollConfiguration(
+          behavior: ScrollConfiguration.of(context).copyWith(scrollbars: false),
+          child: ListView.builder()
+```
 
 You can find a full example in the [example](example/main.dart) file.
 
