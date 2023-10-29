@@ -69,12 +69,4 @@ Please refer to the [RawScrollbar](https://api.flutter.dev/flutter/widgets/RawSc
 
 ### Support this project
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('dglover', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Buy me a coffee via Ko-fi',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'D1D13Y754');kofiwidget2.draw();</script> 
