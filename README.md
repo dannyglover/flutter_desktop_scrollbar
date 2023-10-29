@@ -24,8 +24,8 @@ You can see the correct behavior in the desktop scrollbar example gif, where the
 <div align="center">
 <table>
   <tr>
-    <td><img src="images/default_flutter_scrollbar_example.gif" width=846 height=583 /></td>
-    <td><img src="images/desktop_scrollbar_example.gif" width=846 height=583 /></td>
+    <td><img src="https://github.com/dannyglover/flutter_desktop_scrollbar/raw/main/images/default_flutter_scrollbar_example.gif" width=846 height=583 /></td>
+    <td><img src="https://github.com/dannyglover/flutter_desktop_scrollbar/raw/main/images/desktop_scrollbar_example.gif" width=846 height=583 /></td>
   </tr>
 </table>
 </div>
