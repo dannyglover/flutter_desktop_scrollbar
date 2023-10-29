@@ -38,13 +38,17 @@ You can see the correct behavior in the desktop scrollbar example gif, where the
 
 ## Install
 
-To install, add `desktop_scrollbar` to your dependencies in your `pubspec.yaml` file
+To install, import the plugin using 
+```dart
+flutter pub add desktop_scrollbar
+```
+
+Or, add `desktop_scrollbar` to your dependencies in your `pubspec.yaml` file
 ```yaml
 # pubspec.yaml
 dependencies:
   desktop_scrollbar:
 ```
-Or import it using `flutter pub add desktop_scrollbar`
 
 ```dart
 import 'package:desktop_scrollbar/desktop_scrollbar.dart';
