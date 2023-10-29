@@ -15,21 +15,14 @@ A Desktop/Web scrollbar for flutter that implements correct track click > jump b
 
 ## Desktop Scrollbar
 
-Please see the comparisions below. On the left, you have the default flutter scrollbar. To the right, a Desktop scrollbar using this package.
+Please see the comparisions below. On the top, you have the default flutter scrollbar. On the bottom, a Desktop scrollbar using this package.
 
 Notice how when the track is clicked on the default flutter scrollbar, that it only jumps toward the cursor by a small amount? That is not how scrollbars are supposed to work on desktop. 
 
 You can see the correct behavior in the desktop scrollbar example gif, where the scrollbar thumb jumps to the clicked position on the track.
-
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://github.com/dannyglover/flutter_desktop_scrollbar/raw/main/images/default_flutter_scrollbar_example.gif" width=846 height=583 /></td>
-    <td><img src="https://github.com/dannyglover/flutter_desktop_scrollbar/raw/main/images/desktop_scrollbar_example.gif" width=846 height=583 /></td>
-  </tr>
-</table>
-</div>
-</br>
+   
+![Flutter Default Scrollbar](https://raw.githubusercontent.com/dannyglover/flutter_desktop_scrollbar/main/images/default_flutter_scrollbar_example.gif)
+    ![DesktopScrollbar](https://raw.githubusercontent.com/dannyglover/flutter_desktop_scrollbar/main/images/desktop_scrollbar_example.gif)
 
 ## Features
 
