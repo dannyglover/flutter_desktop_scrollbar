@@ -1,6 +1,6 @@
 name: desktop_scrollbar
 description: A flutter package that adds track clicking behavior to Scrollbars.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/dannyglover/flutter_desktop_scrollbar
 
 environment:
