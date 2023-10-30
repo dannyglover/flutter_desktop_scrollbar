@@ -1,3 +1,7 @@
+## 1.0.5
+
+* Fixed example gifs being squashed in the package page.
+
 ## 1.0.4
 
 * Add documentation regarding disabling default scrollbars.
